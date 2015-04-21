@@ -2,11 +2,10 @@
 Aggregating and filtering web development articles.
 
 
-<a href="https://github.com/jmcunningham/AngularJS-Learning">AngularJS-Learning</a>
-<br />
-<a href="http://www.filltext.com/">Filltext</a>
-<br />
-<a href="https://builtwith.com/">Builtwith</a>
-<br />
+<a href="https://github.com/jmcunningham/AngularJS-Learning">AngularJS-Learning</a> - A very good collection of blog posts, articles, videos for learning AngularJS.
 
-<a href="http://www.techtalkdc.com/what-i-wish-i-learned-before-starting-my-first-mean-app/">What I wish I learned before starting my first mean app</a>
+<a href="http://www.filltext.com/">Filltext</a> - Generates JSON datasets. Very usefull for mocking asynchronous server calls.
+
+<a href="https://builtwith.com/">Builtwith</a> - Find out what websites are built with.
+
+<a href="http://bost.ocks.org/mike/fisheye/">Fisheye Distortion</a> - A JS implementation of fisheye distortion.
