@@ -6,6 +6,8 @@
 ### Table of Contents  
 [JavaScript](#js)
 
+[HTML & CSS](#html) 
+
 [Misc](#misc)
 
 <a name="js" />
@@ -13,6 +15,11 @@
 <a href="https://github.com/jmcunningham/AngularJS-Learning">AngularJS-Learning</a> - A very good collection of blog posts, articles, videos for learning AngularJS.
 
 <a href="http://bost.ocks.org/mike/fisheye/">Fisheye Distortion</a> - A JS implementation of fisheye distortion.
+
+
+<a name="html" />
+### HTML & CSS
+<a href="http://howtocenterincss.com/"> How to center in css </a> - Generate CSS & HTML Markup for centered
 
 
 <a name="misc" />
