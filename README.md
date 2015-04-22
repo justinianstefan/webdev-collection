@@ -16,6 +16,8 @@
 
 <a href="http://bost.ocks.org/mike/fisheye/">Fisheye Distortion</a> - A JS implementation of fisheye distortion.
 
+<a href="https://github.com/bolshchikov/js-must-watch">JS Must Watch </a> - Famous youtube videos that any developer needs to watch
+
 
 <a name="html" />
 ### HTML & CSS
@@ -24,6 +26,8 @@
 
 <a name="misc" />
 #### Misc
+<a href="https://github.com/dypsilon/frontend-dev-bookmarks">Front-End Dev Bookmarks </a> - Huge collection of Front-End development articles & tutorials
+
 <a href="http://www.filltext.com/">Filltext</a> - Generates JSON datasets. Very usefull for mocking asynchronous server calls.
 
 <a href="https://builtwith.com/">Builtwith</a> - Find out what websites are built with.
