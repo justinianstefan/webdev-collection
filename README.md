@@ -19,7 +19,7 @@
 
 <a name="html" />
 ### HTML & CSS
-<a href="http://howtocenterincss.com/"> How to center in CSS </a> - Generate CSS & HTML Markup for centered containers
+<a href="http://howtocenterincss.com/"> How to center in CSS </a> - Generate CSS & HTML markup for centered containers
 
 
 <a name="misc" />
