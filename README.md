@@ -14,9 +14,9 @@
 #### JavaScript
 <a href="https://github.com/jmcunningham/AngularJS-Learning">AngularJS-Learning</a> - A very good collection of blog posts, articles, videos for learning AngularJS.
 
-<a href="http://bost.ocks.org/mike/fisheye/">Fisheye Distortion</a> - A JS implementation of fisheye distortion.
-
 <a href="https://github.com/bolshchikov/js-must-watch">JS Must Watch </a> - Famous youtube videos that any developer needs to watch
+
+<a href="http://bost.ocks.org/mike/fisheye/">Fisheye Distortion</a> - A JS implementation of fisheye distortion.
 
 
 <a name="html" />
